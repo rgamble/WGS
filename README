@@ -1,0 +1,25 @@
+OVERVIEW
+--------
+Word Game Solver (WGS) is a command-line tool for generating, solving, and
+analyzing anagram and grid-based word search puzzles.  The default conguration
+provides out of the box support for numerous versions of Boggle® and popular
+variants.  The provided conguration file is easily modided to support new games
+by specifying game rules, scoring options, letter distributions, and grid
+layouts.
+
+INSTALLATION
+------------
+For systems that support Make, cd to the src directory and run make, making
+any necessary changes to the makefile.  For other systems, simply compile all
+of the source files to produce an executable named 'wgs'.
+
+DOCUMENTATION
+-------------
+Comprehensive documentation is provided in pdf format in the doc directory.
+
+LICENSE
+-------
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.  See the COPYING file for details.

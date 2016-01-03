@@ -1,0 +1,1574 @@
+{
+    "Grids": {
+        "4x4": {
+            "Tiles": [
+                [
+                    1,
+                    1
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    1,
+                    4
+                ],
+                [
+                    2,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    2,
+                    4
+                ],
+                [
+                    3,
+                    1
+                ],
+                [
+                    3,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ],
+                [
+                    3,
+                    4
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    4,
+                    4
+                ]
+            ],
+            "Adjacency": "Diagonal"
+        },
+        "5x5": {
+            "Tiles": [
+                [
+                    1,
+                    1
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    1,
+                    4
+                ],
+                [
+                    1,
+                    5
+                ],
+                [
+                    2,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    2,
+                    4
+                ],
+                [
+                    2,
+                    5
+                ],
+                [
+                    3,
+                    1
+                ],
+                [
+                    3,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ],
+                [
+                    3,
+                    4
+                ],
+                [
+                    3,
+                    5
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    4,
+                    4
+                ],
+                [
+                    4,
+                    5
+                ],
+                [
+                    5,
+                    1
+                ],
+                [
+                    5,
+                    2
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ],
+                [
+                    5,
+                    5
+                ]
+            ],
+            "Adjacency": "Diagonal"
+        },
+        "6x6": {
+            "Tiles": [
+                [
+                    1,
+                    1
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    1,
+                    4
+                ],
+                [
+                    1,
+                    5
+                ],
+                [
+                    1,
+                    6
+                ],
+                [
+                    2,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    2,
+                    4
+                ],
+                [
+                    2,
+                    5
+                ],
+                [
+                    2,
+                    6
+                ],
+                [
+                    3,
+                    1
+                ],
+                [
+                    3,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ],
+                [
+                    3,
+                    4
+                ],
+                [
+                    3,
+                    5
+                ],
+                [
+                    3,
+                    6
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    4,
+                    4
+                ],
+                [
+                    4,
+                    5
+                ],
+                [
+                    4,
+                    6
+                ],
+                [
+                    5,
+                    1
+                ],
+                [
+                    5,
+                    2
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ],
+                [
+                    5,
+                    5
+                ],
+                [
+                    5,
+                    6
+                ],
+                [
+                    6,
+                    1
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    6,
+                    4
+                ],
+                [
+                    6,
+                    5
+                ],
+                [
+                    6,
+                    6
+                ]
+            ],
+            "Adjacency": "Diagonal"
+        },
+        "7 Little Words": {
+            "Tiles": [
+                [
+                    1,
+                    1
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    1,
+                    4
+                ],
+                [
+                    2,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    2,
+                    4
+                ],
+                [
+                    3,
+                    1
+                ],
+                [
+                    3,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ],
+                [
+                    3,
+                    4
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    4,
+                    4
+                ],
+                [
+                    5,
+                    1
+                ],
+                [
+                    5,
+                    2
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ]
+            ],
+            "Adjacency": "Full"
+        },
+        "7x7": {
+            "Tiles": [
+                [
+                    1,
+                    1
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    1,
+                    4
+                ],
+                [
+                    1,
+                    5
+                ],
+                [
+                    1,
+                    6
+                ],
+                [
+                    1,
+                    7
+                ],
+                [
+                    2,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    2,
+                    4
+                ],
+                [
+                    2,
+                    5
+                ],
+                [
+                    2,
+                    6
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    3,
+                    1
+                ],
+                [
+                    3,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ],
+                [
+                    3,
+                    4
+                ],
+                [
+                    3,
+                    5
+                ],
+                [
+                    3,
+                    6
+                ],
+                [
+                    3,
+                    7
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    4,
+                    4
+                ],
+                [
+                    4,
+                    5
+                ],
+                [
+                    4,
+                    6
+                ],
+                [
+                    4,
+                    7
+                ],
+                [
+                    5,
+                    1
+                ],
+                [
+                    5,
+                    2
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ],
+                [
+                    5,
+                    5
+                ],
+                [
+                    5,
+                    6
+                ],
+                [
+                    5,
+                    7
+                ],
+                [
+                    6,
+                    1
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    6,
+                    4
+                ],
+                [
+                    6,
+                    5
+                ],
+                [
+                    6,
+                    6
+                ],
+                [
+                    6,
+                    7
+                ],
+                [
+                    7,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    7,
+                    3
+                ],
+                [
+                    7,
+                    4
+                ],
+                [
+                    7,
+                    5
+                ],
+                [
+                    7,
+                    6
+                ],
+                [
+                    7,
+                    7
+                ]
+            ],
+            "Adjacency": "Diagonal"
+        },
+        "Castle": {
+            "Tiles": [
+                [
+                    1,
+                    2
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    2,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    2,
+                    4
+                ],
+                [
+                    3,
+                    1
+                ],
+                [
+                    3,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ],
+                [
+                    3,
+                    4
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ]
+            ],
+            "Adjacency": "Diagonal"
+        },
+        "Quarrel": {
+            "Tiles": [
+                [
+                    1,
+                    1
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    1,
+                    4
+                ],
+                [
+                    1,
+                    5
+                ],
+                [
+                    1,
+                    6
+                ],
+                [
+                    1,
+                    7
+                ],
+                [
+                    1,
+                    8
+                ]
+            ],
+            "Adjacency": "Full"
+        },
+        "Scrabble": {
+            "Tiles": [
+                [
+                    1,
+                    1
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    1,
+                    4
+                ],
+                [
+                    1,
+                    5
+                ],
+                [
+                    1,
+                    6
+                ],
+                [
+                    1,
+                    7
+                ],
+                [
+                    1,
+                    8
+                ],
+                [
+                    2,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    2,
+                    4
+                ],
+                [
+                    2,
+                    5
+                ],
+                [
+                    2,
+                    6
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    2,
+                    8
+                ]
+            ],
+            "Adjacency": "Full"
+        }
+    },
+    "Dictionaries": {
+        "Common": "/usr/share/dict/words",
+        "ENABLE": "/usr/local/share/dict/enable1.txt",
+        "English.0": "/usr/local/share/dict/english.0",
+        "SOWPODS": "/usr/local/share/dict/sowpods.txt",
+        "TWL06": "/usr/local/share/dict/twl06.txt",
+        "UK": "/usr/local/share/dict/UK.dic",
+        "Zynga": "/usr/local/share/dict/zynga.txt"
+    },
+    "ScoringRules": {
+        "7 Little Words": {
+            "QIsQu": false,
+            "RandomBoardSize": 0,
+            "MultiplyLengthBonus": false,
+            "WildCardPoints": false,
+            "RoundBonusUp": false,
+            "ShortWordMultiplier": false,
+            "ShortWordLength": 0,
+            "ShortWordPoints": 0,
+            "MinWordLength": 4,
+            "QuLength": 1,
+            "LetterValues": {},
+            "LengthBonuses": {}
+        },
+        "Big Boggle": {
+            "QIsQu": true,
+            "RandomBoardSize": 0,
+            "MultiplyLengthBonus": false,
+            "WildCardPoints": false,
+            "RoundBonusUp": false,
+            "ShortWordMultiplier": false,
+            "ShortWordLength": 0,
+            "ShortWordPoints": 0,
+            "MinWordLength": 4,
+            "QuLength": 2,
+            "LetterValues": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "G": 0,
+                "H": 0,
+                "I": 0,
+                "J": 0,
+                "K": 0,
+                "L": 0,
+                "M": 0,
+                "N": 0,
+                "O": 0,
+                "P": 0,
+                "Q": 0,
+                "R": 0,
+                "S": 0,
+                "T": 0,
+                "U": 0,
+                "V": 0,
+                "W": 0,
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "LengthBonuses": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 2,
+                "6": 3,
+                "7": 5,
+                "8": 11,
+                "9": 11,
+                "10": 11,
+                "11": 11,
+                "12": 11,
+                "13": 11,
+                "14": 11,
+                "15": 11,
+                "16": 11,
+                "17": 11,
+                "18": 11,
+                "19": 11,
+                "20": 11
+            }
+        },
+        "Boggle": {
+            "QIsQu": true,
+            "RandomBoardSize": 0,
+            "MultiplyLengthBonus": false,
+            "WildCardPoints": false,
+            "RoundBonusUp": false,
+            "ShortWordMultiplier": false,
+            "ShortWordLength": 0,
+            "ShortWordPoints": 0,
+            "MinWordLength": 3,
+            "QuLength": 2,
+            "LetterValues": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "G": 0,
+                "H": 0,
+                "I": 0,
+                "J": 0,
+                "K": 0,
+                "L": 0,
+                "M": 0,
+                "N": 0,
+                "O": 0,
+                "P": 0,
+                "Q": 0,
+                "R": 0,
+                "S": 0,
+                "T": 0,
+                "U": 0,
+                "V": 0,
+                "W": 0,
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "LengthBonuses": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1,
+                "5": 2,
+                "6": 3,
+                "7": 5,
+                "8": 11,
+                "9": 11,
+                "10": 11,
+                "11": 11,
+                "12": 11,
+                "13": 11,
+                "14": 11,
+                "15": 11,
+                "16": 11,
+                "17": 11,
+                "18": 11,
+                "19": 11,
+                "20": 11
+            }
+        },
+        "Quarrel": {
+            "QIsQu": false,
+            "RandomBoardSize": 8,
+            "MultiplyLengthBonus": false,
+            "WildCardPoints": false,
+            "RoundBonusUp": false,
+            "ShortWordMultiplier": false,
+            "ShortWordLength": 0,
+            "ShortWordPoints": 0,
+            "MinWordLength": 1,
+            "QuLength": 1,
+            "LetterValues": {
+                "A": 1,
+                "B": 5,
+                "C": 2,
+                "D": 3,
+                "E": 1,
+                "F": 5,
+                "G": 4,
+                "H": 4,
+                "I": 1,
+                "J": 15,
+                "K": 6,
+                "L": 2,
+                "M": 4,
+                "N": 1,
+                "O": 1,
+                "P": 3,
+                "Q": 15,
+                "R": 2,
+                "S": 1,
+                "T": 1,
+                "U": 3,
+                "V": 6,
+                "W": 5,
+                "X": 10,
+                "Y": 5,
+                "Z": 12
+            },
+            "LengthBonuses": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 0,
+                "10": 0,
+                "11": 0,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0,
+                "17": 0,
+                "18": 0,
+                "19": 0,
+                "20": 0
+            }
+        },
+        "Ruzzle": {
+            "QIsQu": false,
+            "RandomBoardSize": 0,
+            "MultiplyLengthBonus": false,
+            "WildCardPoints": false,
+            "RoundBonusUp": false,
+            "ShortWordMultiplier": false,
+            "ShortWordLength": 0,
+            "ShortWordPoints": 0,
+            "MinWordLength": 2,
+            "QuLength": 1,
+            "LetterValues": {
+                "A": 1,
+                "B": 4,
+                "C": 4,
+                "D": 2,
+                "E": 1,
+                "F": 4,
+                "G": 3,
+                "H": 4,
+                "I": 1,
+                "J": 10,
+                "K": 5,
+                "L": 1,
+                "M": 3,
+                "N": 1,
+                "O": 1,
+                "P": 4,
+                "Q": 10,
+                "R": 1,
+                "S": 1,
+                "T": 1,
+                "U": 2,
+                "V": 4,
+                "W": 4,
+                "X": 8,
+                "Y": 4,
+                "Z": 10
+            },
+            "LengthBonuses": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 5,
+                "6": 10,
+                "7": 15,
+                "8": 20,
+                "9": 25,
+                "10": 25,
+                "11": 25,
+                "12": 25,
+                "13": 25,
+                "14": 25,
+                "15": 25,
+                "16": 25,
+                "17": 25,
+                "18": 25,
+                "19": 25,
+                "20": 25
+            }
+        },
+        "Scrabble": {
+            "QIsQu": false,
+            "RandomBoardSize": 7,
+            "MultiplyLengthBonus": false,
+            "WildCardPoints": false,
+            "RoundBonusUp": false,
+            "ShortWordMultiplier": false,
+            "ShortWordLength": 0,
+            "ShortWordPoints": 0,
+            "MinWordLength": 2,
+            "QuLength": 2,
+            "LetterValues": {
+                "A": 1,
+                "B": 3,
+                "C": 3,
+                "D": 2,
+                "E": 1,
+                "F": 4,
+                "G": 2,
+                "H": 4,
+                "I": 1,
+                "J": 8,
+                "K": 5,
+                "L": 1,
+                "M": 3,
+                "N": 1,
+                "O": 1,
+                "P": 3,
+                "Q": 10,
+                "R": 1,
+                "S": 1,
+                "T": 1,
+                "U": 1,
+                "V": 4,
+                "W": 4,
+                "X": 8,
+                "Y": 4,
+                "Z": 10
+            },
+            "LengthBonuses": {}
+        },
+        "Scramble": {
+            "QIsQu": true,
+            "RandomBoardSize": 0,
+            "MultiplyLengthBonus": false,
+            "WildCardPoints": false,
+            "RoundBonusUp": false,
+            "ShortWordMultiplier": true,
+            "ShortWordLength": 2,
+            "ShortWordPoints": 1,
+            "MinWordLength": 2,
+            "QuLength": 1,
+            "LetterValues": {
+                "A": 1,
+                "B": 4,
+                "C": 4,
+                "D": 2,
+                "E": 1,
+                "F": 4,
+                "G": 3,
+                "H": 3,
+                "I": 1,
+                "J": 10,
+                "K": 5,
+                "L": 2,
+                "M": 4,
+                "N": 2,
+                "O": 1,
+                "P": 4,
+                "Q": 10,
+                "R": 1,
+                "S": 1,
+                "T": 1,
+                "U": 2,
+                "V": 5,
+                "W": 4,
+                "X": 8,
+                "Y": 3,
+                "Z": 10
+            },
+            "LengthBonuses": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 3,
+                "6": 6,
+                "7": 10,
+                "8": 15,
+                "9": 20,
+                "10": 25,
+                "11": 25,
+                "12": 25,
+                "13": 25,
+                "14": 25,
+                "15": 25,
+                "16": 25,
+                "17": 25,
+                "18": 25,
+                "19": 25,
+                "20": 25
+            }
+        },
+        "Super Big Boggle": {
+            "QIsQu": false,
+            "RandomBoardSize": 0,
+            "MultiplyLengthBonus": false,
+            "WildCardPoints": false,
+            "RoundBonusUp": false,
+            "ShortWordMultiplier": false,
+            "ShortWordLength": 0,
+            "ShortWordPoints": 0,
+            "MinWordLength": 4,
+            "QuLength": 2,
+            "LetterValues": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "G": 0,
+                "H": 0,
+                "I": 0,
+                "J": 0,
+                "K": 0,
+                "L": 0,
+                "M": 0,
+                "N": 0,
+                "O": 0,
+                "P": 0,
+                "Q": 0,
+                "R": 0,
+                "S": 0,
+                "T": 0,
+                "U": 0,
+                "V": 0,
+                "W": 0,
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "LengthBonuses": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 2,
+                "6": 3,
+                "7": 5,
+                "8": 11,
+                "9": 18,
+                "10": 20,
+                "11": 22,
+                "12": 24,
+                "13": 26,
+                "14": 28,
+                "15": 30,
+                "16": 32,
+                "17": 34,
+                "18": 36,
+                "19": 38,
+                "20": 40
+            }
+        },
+        "WordBoxer": {
+            "QIsQu": false,
+            "RandomBoardSize": 0,
+            "MultiplyLengthBonus": false,
+            "WildCardPoints": false,
+            "RoundBonusUp": false,
+            "ShortWordMultiplier": false,
+            "ShortWordLength": 0,
+            "ShortWordPoints": 0,
+            "MinWordLength": 2,
+            "QuLength": 1,
+            "LetterValues": {
+                "A": 1,
+                "B": 4,
+                "C": 4,
+                "D": 2,
+                "E": 1,
+                "F": 5,
+                "G": 3,
+                "H": 5,
+                "I": 1,
+                "J": 10,
+                "K": 6,
+                "L": 2,
+                "M": 4,
+                "N": 2,
+                "O": 2,
+                "P": 4,
+                "Q": 10,
+                "R": 2,
+                "S": 2,
+                "T": 2,
+                "U": 2,
+                "V": 5,
+                "W": 5,
+                "X": 8,
+                "Y": 5,
+                "Z": 10
+            },
+            "LengthBonuses": {}
+        },
+        "WordHero": {
+            "QIsQu": true,
+            "RandomBoardSize": 0,
+            "MultiplyLengthBonus": true,
+            "WildCardPoints": false,
+            "RoundBonusUp": false,
+            "ShortWordMultiplier": false,
+            "ShortWordLength": 0,
+            "ShortWordPoints": 0,
+            "MinWordLength": 3,
+            "QuLength": 2,
+            "LetterValues": {
+                "A": 1,
+                "B": 3,
+                "C": 2,
+                "D": 2,
+                "E": 1,
+                "F": 4,
+                "G": 2,
+                "H": 2,
+                "I": 2,
+                "J": 9,
+                "K": 6,
+                "L": 2,
+                "M": 2,
+                "N": 2,
+                "O": 2,
+                "P": 2,
+                "Q": 11,
+                "R": 2,
+                "S": 2,
+                "T": 1,
+                "U": 2,
+                "V": 5,
+                "W": 6,
+                "X": 9,
+                "Y": 3,
+                "Z": 9
+            },
+            "LengthBonuses": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 1.5,
+                "6": 2,
+                "7": 2.5,
+                "8": 3,
+                "9": 3.5,
+                "10": 4,
+                "11": 4.5,
+                "12": 5,
+                "13": 5.5,
+                "14": 6,
+                "15": 6.5,
+                "16": 7,
+                "17": 7.5,
+                "18": 8,
+                "19": 8.5,
+                "20": 9
+            }
+        }
+    },
+    "LetterDistributions": {
+        "Big Boggle (1979)": {
+            "ShuffleLetters": true,
+            "ShuffleDice": true,
+            "SampleWithoutReplacement": true,
+            "GenerationMethod": "Dice",
+            "WordListFile": "",
+            "PropensityLetters": "",
+            "DiceLetters": "AAAFRS, AAEEEE, AAFIRS, ADENNN, AEEEEM, AEEGMU, AEGMNN, AFIRSY, BJKQXZ, CCENST, CEIILT, CEILPT, CEIPST, DDHNOT, DHHLOR, DHLNOR, DHLNOR, EIIITT, EMOTTT, ENSSSU, FIPRSY, GORRVW, IPRRRY, NOOTUW, OOOTTU"
+        },
+        "Big Boggle (2011)": {
+            "ShuffleLetters": true,
+            "ShuffleDice": true,
+            "SampleWithoutReplacement": true,
+            "GenerationMethod": "Dice",
+            "WordListFile": "",
+            "PropensityLetters": "",
+            "DiceLetters": " AAAFRS, AAEEEE, AAFIRS, ADENNN, AEEEEM, AEEGMU, AEGMNN, AFIRSY, AnErHeInThQ, BBJKXZ, CCENST, DDHNOT, DHHHOW, DHHLOR, DHLNOR, EIIITT, EIILST, EILPST, EMOTTT, ENSSSU, GORRVW, CEIPST, IPRSYY, NOOTUW, OOOTTU"
+        },
+        "Boggle (New)": {
+            "ShuffleLetters": true,
+            "ShuffleDice": true,
+            "SampleWithoutReplacement": true,
+            "GenerationMethod": "Dice",
+            "WordListFile": "",
+            "PropensityLetters": "",
+            "DiceLetters": "AAEEGN, ELRTTY, AOOTTW, ABBJOO, EHRTVW, CIMOTU, DISTTY, EIOSST, DELRVY, ACHOPS, HIMNQU, EEINSU, EEGHNW, AFFKPS, HLNNRZ, DEILRX"
+        },
+        "Boggle (Old)": {
+            "ShuffleLetters": true,
+            "ShuffleDice": true,
+            "SampleWithoutReplacement": true,
+            "GenerationMethod": "Dice",
+            "WordListFile": "",
+            "PropensityLetters": "",
+            "DiceLetters": "AACIOT, AHMORS, EGKLUY, ABILTY, ACDEMP, EGINTV, GILRUW, ELPSTU, DENOSW, ACELRS, ABJMOQ, EEFHIY, EHINPS, DKNOTU, ADENVZ, BIFORX"
+        },
+        "Boggle Deluxe (1996)": {
+            "ShuffleLetters": true,
+            "ShuffleDice": true,
+            "SampleWithoutReplacement": true,
+            "GenerationMethod": "Dice",
+            "WordListFile": "",
+            "PropensityLetters": "",
+            "DiceLetters": "AAAFRS, AAEEEE, AAFIRS, ADENNN, AEEEEM, AEEGMU, AEGMNN, AFIRSY, BJKQXZ, CCNSTW, CEIILT, CEILPT, CEIPST, DDLNOR, DHHLOR, DHHNOT, DHLNOR, EIIITT, EMOTTT, ENSSSU, FIPRSY, GORRVW, HIPRRY, NOOTUW, OOOTTU"
+        },
+        "Boggle Junior": {
+            "ShuffleLetters": true,
+            "ShuffleDice": true,
+            "SampleWithoutReplacement": true,
+            "GenerationMethod": "Dice",
+            "WordListFile": "",
+            "PropensityLetters": "",
+            "DiceLetters": "PNWKIL, LKIGHJ, ABCDEF, ABCDEF, ZERTSG, YUWTOS, KDBAOE, MRLOPN"
+        },
+        "Boggle Master (1993)": {
+            "ShuffleLetters": true,
+            "ShuffleDice": true,
+            "SampleWithoutReplacement": true,
+            "GenerationMethod": "Dice",
+            "WordListFile": "",
+            "PropensityLetters": "",
+            "DiceLetters": "AAAFRS, AAEEEE, AAFIRS, ADENNN, AEEEEM, AEEGMU, AEGMNN, AFIRSY, BJKQXZ, CCNSTW, CEIILT, CEILPT, CEIPST, DDLNOR, DHHLOR, DHHNOT, DHLNOR, EIIITT, EMOTTT, ENSSSU, FIPRSY, GORRVW, HIPRRY, NOOTUW, OOOTTU"
+        },
+        "Quarrel": {
+            "ShuffleLetters": true,
+            "ShuffleDice": true,
+            "SampleWithoutReplacement": true,
+            "GenerationMethod": "WordList",
+            "WordListFile": "/home/rgamble/projects/wgs/anagrams.txt",
+            "PropensityLetters": "",
+            "DiceLetters": ""
+        },
+        "Quarrel (Dice)": {
+            "ShuffleLetters": true,
+            "ShuffleDice": true,
+            "SampleWithoutReplacement": true,
+            "GenerationMethod": "Dice",
+            "WordListFile": "",
+            "PropensityLetters": "",
+            "DiceLetters": "AAEEGN, AHSPCO, ASBFFZ, OPJAOB, IOTMUC, RYVDEL, LREIXD, EIUNEH, WNGEES, LSHNRK, TNTIYY, OWTOAT, ERTTDL, TOESIS, TERMHV, NUIHWQ"
+        },
+        "Scrabble": {
+            "ShuffleLetters": true,
+            "ShuffleDice": true,
+            "SampleWithoutReplacement": true,
+            "GenerationMethod": "LetterPropensity",
+            "WordListFile": "",
+            "PropensityLetters": "AAAAAAAAABBCCDDDDEEEEEEEEEEEEFFGGGHHIIIIIIIIIJKLLLLMMNNNNNNOOOOOOOOPPQRRRRRRSSSSTTTTTTUUUUVVWWXYYZZ??",
+            "DiceLetters": ""
+        },
+        "Scramble": {
+            "ShuffleLetters": true,
+            "ShuffleDice": true,
+            "SampleWithoutReplacement": true,
+            "GenerationMethod": "Dice",
+            "WordListFile": "",
+            "PropensityLetters": "",
+            "DiceLetters": "AAEEGN, AHSPCO, ASBFFZ, OPJAOB, IOTMUC, RYVDEL, LREIXD, EIUNEH, WNGEES, LSHNRK, TNTIYY, OWTOAT, ERTTDL, TOESIS, TERMHV, NUIHWQ"
+        },
+        "Super Big Boggle": {
+            "ShuffleLetters": true,
+            "ShuffleDice": true,
+            "SampleWithoutReplacement": true,
+            "GenerationMethod": "Dice",
+            "WordListFile": "",
+            "PropensityLetters": "",
+            "DiceLetters": "AEEEEM, ABDEIO, ...EIO, HOPRST, CEIPST, AFIRSY, AAEEOO, ADENNN, IPRSYY, BBJKXZ, DHLNOR, EHILRS, OOOTTU, AEILMN, JKQuWXZ, DHHLOR, AEEGMU, CEIITT, EILPST, EIILST, GORRVW, NOOTUW, AAEEEE, AAFIRS, AEINOU, AnErHeInThQu, DHHNOW, ENSSSU, CDDLNN, AEGMNN, EOMTTT, CCENST, AAAFRS, HIRSTV, CFGNUY, DDHNOT"
+        }
+    },
+    "GameRules": {
+        "7 Little Words": {
+            "GridDesign": "7 Little Words",
+            "ScoringRules": "7 Little Words",
+            "LetterDistribution": "",
+            "Dictionary": "SOWPODS"
+        },
+        "Big Boggle (1979)": {
+            "GridDesign": "5x5",
+            "ScoringRules": "Big Boggle",
+            "LetterDistribution": "Big Boggle (1979)",
+            "Dictionary": "SOWPODS"
+        },
+        "Big Boggle (2011)": {
+            "GridDesign": "5x5",
+            "ScoringRules": "Big Boggle",
+            "LetterDistribution": "Big Boggle (2011)",
+            "Dictionary": "SOWPODS"
+        },
+        "Boggle (New)": {
+            "GridDesign": "4x4",
+            "ScoringRules": "Boggle",
+            "LetterDistribution": "Boggle (New)",
+            "Dictionary": "SOWPODS"
+        },
+        "Boggle (Old)": {
+            "GridDesign": "4x4",
+            "ScoringRules": "Boggle",
+            "LetterDistribution": "Boggle (Old)",
+            "Dictionary": "SOWPODS"
+        },
+        "Boggle Deluxe": {
+            "GridDesign": "5x5",
+            "ScoringRules": "Big Boggle",
+            "LetterDistribution": "Boggle Deluxe (1996)",
+            "Dictionary": "SOWPODS"
+        },
+        "Boggle Junior": {
+            "GridDesign": "Quarrel",
+            "ScoringRules": "Quarrel",
+            "LetterDistribution": "Boggle Junior",
+            "Dictionary": "SOWPODS"
+        },
+        "Boggle Master": {
+            "GridDesign": "5x5",
+            "ScoringRules": "Big Boggle",
+            "LetterDistribution": "Boggle Master (1993)",
+            "Dictionary": "SOWPODS"
+        },
+        "Quarrel": {
+            "GridDesign": "Quarrel",
+            "ScoringRules": "Quarrel",
+            "LetterDistribution": "Quarrel",
+            "Dictionary": "Common"
+        },
+        "Ruzzle": {
+            "GridDesign": "4x4",
+            "ScoringRules": "Ruzzle",
+            "LetterDistribution": "Ruzzle",
+            "Dictionary": "TWL06"
+        },
+        "Scrabble": {
+            "GridDesign": "Scrabble",
+            "ScoringRules": "Scrabble",
+            "LetterDistribution": "Scrabble",
+            "Dictionary": "SOWPODS"
+        },
+        "Scramble": {
+            "GridDesign": "4x4",
+            "ScoringRules": "Scramble",
+            "LetterDistribution": "Scramble",
+            "Dictionary": "Zynga"
+        },
+        "Super Big Boggle": {
+            "GridDesign": "6x6",
+            "ScoringRules": "Super Big Boggle",
+            "LetterDistribution": "Super Big Boggle",
+            "Dictionary": "SOWPODS"
+        },
+        "WordBoxer5": {
+            "GridDesign": "5x5",
+            "ScoringRules": "WordBoxer",
+            "LetterDistribution": "",
+            "Dictionary": "SOWPODS"
+        },
+        "WordBoxer6": {
+            "GridDesign": "6x6",
+            "ScoringRules": "WordBoxer",
+            "LetterDistribution": "",
+            "Dictionary": "SOWPODS"
+        },
+        "WordBoxer7": {
+            "GridDesign": "7x7",
+            "ScoringRules": "WordBoxer",
+            "LetterDistribution": "",
+            "Dictionary": "SOWPODS"
+        },
+        "WordHero": {
+            "GridDesign": "4x4",
+            "ScoringRules": "WordHero",
+            "LetterDistribution": "Big Boggle (1979)",
+            "Dictionary": "Common"
+        }
+    },
+    "Preferences": {
+        "": {
+            "AnalysisFormat": "%B: %W words, %S points\n",
+            "BoardSummaryFormat1": "2:%2C 3:%3C 4:%4C 5:%5C 6:%6C 7:%7C 8+:%8+C",
+            "BoardSummaryFormat2": "%W words, %S points",
+            "DLColor": "#84ecf6",
+            "DWColor": "#f7cbc6",
+            "QLColor": "#c6f5bd",
+            "QWColor": "#fef79b",
+            "ShowOptions": "true",
+            "ShowPattern": "true",
+            "ShowRandom": "true",
+            "ShowValid": "true",
+            "SolutionDetailFormat": "<small><table width=\"150\"> <tr> <td><strong>%s</strong></td> <td align=\"right\"><strong>%w</strong></td> </tr> <tr> <td>%l</td> <td align=\"right\">Letter Points</td> </tr> <tr> <td>x%m</td> <td align=\"right\">&nbsp;&nbsp;&nbsp;&nbsp;Word Multiplier</td> </tr> <tr> <td>%b</td> <td align=\"right\">Length Bonus</td> </tr> </table></small>",
+            "SolutionFormat": "%w:\t%s points\n",
+            "SolutionPrefix": "",
+            "SolutionSuffix": "",
+            "TLColor": "#c6f5bd",
+            "TWColor": "#fef79b",
+            "TileSize": "40",
+            "ToolTipFormat": "%*W words, %*S points"
+        },
+        "Default": {
+            "AnalysisFormat": "%B: %W words, %S points\n",
+            "BoardSummaryFormat1": "2:%2C 3:%3C 4:%4C 5:%5C 6:%6C 7:%7C 8+:%8+C",
+            "BoardSummaryFormat2": "%W words, %S points",
+            "DLColor": "#84ecf6",
+            "DWColor": "#f7cbc6",
+            "QLColor": "#c6f5bd",
+            "QWColor": "#fef79b",
+            "ShowOptions": "true",
+            "ShowPattern": "true",
+            "ShowRandom": "true",
+            "ShowValid": "true",
+            "SolutionDetailFormat": "<small><table width=\"150\"> <tr> <td><strong>%s</strong></td> <td align=\"right\"><strong>%w</strong></td> </tr> <tr> <td>%l</td> <td align=\"right\">Letter Points</td> </tr> <tr> <td>x%m</td> <td align=\"right\">&nbsp;&nbsp;&nbsp;&nbsp;Word Multiplier</td> </tr> <tr> <td>%b</td> <td align=\"right\">Length Bonus</td> </tr> </table></small>",
+            "SolutionFormat": "%w:\t%s points\n",
+            "SolutionPrefix": "",
+            "SolutionSuffix": "",
+            "TLColor": "#c6f5bd",
+            "TWColor": "#fef79b",
+            "TileSize": "40",
+            "ToolTipFormat": "%*W words, %*S points"
+        },
+        "Quarrel": {
+            "BoardSummaryFormat2": "Best 2-letter word: %2X (%2Y)\nBest 3-letter word: %3X (%3Y)\nBest 4-letter word: %4X (%4Y)\nBest 5-letter word: %5X (%5Y)\nBest 6-letter word: %6X (%6Y)\nBest 7-letter word: %7X (%7Y)\nBest 8-letter word: %8X (%8Y)\n"
+        }
+    }
+}
